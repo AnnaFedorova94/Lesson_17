@@ -1,0 +1,36 @@
+.button {
+   background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+   border-radius: 4px;
+   align-items: center;
+   color: #FFFFFF;
+   font-weight: 700;
+   line-height: 52px;
+   letter-spacing: 0.5px;
+   padding: 0px 40px ;
+   flex-shrink: 0;
+
+}
+.button--border {
+   color: #F75E05;
+   border: 1px solid #FF3F3A;
+   background: none;
+}
+
+.head-block { 
+	margin-bottom: 40px;
+}
+.head-block__subtitle {
+	letter-spacing: 1px;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 150%;
+	color: #1E212C;
+   margin-bottom: 8px;
+   text-transform: uppercase;
+}
+.head-block__title {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1E212C;
+}
